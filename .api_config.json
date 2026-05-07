@@ -1,0 +1,6 @@
+{
+  "provider": "doubao",
+  "api_key": "ark-7ad00c55-dcb6-42d7-af39-c86a620dbb45-de84e",
+  "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "model": "doubao-seed-2-0-pro-260215"
+}
