@@ -1,6 +1,16 @@
-{
-  "provider": "doubao",
-  "api_key": "ark-7ad00c55-dcb6-42d7-af39-c86a620dbb45-de84e",
-  "base_url": "https://ark.cn-beijing.volces.com/api/v3",
-  "model": "doubao-seed-2-0-pro-260215"
-}
+[
+  {
+    "id": "4075f72d-218a-4dd8-b07f-3eea55635571",
+    "provider": "deepseek",
+    "api_key": "sk-397d7e2bd543464da65cd5007b1bb46d",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-v4-pro"
+  },
+  {
+    "id": "71de98f8-18ac-468c-afb1-955c4e18d524",
+    "provider": "doubao",
+    "api_key": "ark-7ad00c55-dcb6-42d7-af39-c86a620dbb45-de84e",
+    "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "model": "doubao-seed-2-0-pro-260215"
+  }
+]
