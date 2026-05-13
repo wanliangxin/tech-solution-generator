@@ -2,7 +2,7 @@
   {
     "id": "cef6df51-1ea8-44dd-a8a9-253210c41ac7",
     "provider": "deepseek",
-    "api_key": "sk-1e3e0a64802a4e9fb4045119286b6346",
+    "api_key": "sk-7acb48ba01aa40c88faa587662244519",
     "base_url": "https://api.deepseek.com",
     "model": "deepseek-v4-pro"
   }
